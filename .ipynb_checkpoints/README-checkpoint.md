@@ -1,15 +1,13 @@
 # The Science of Netflix
 
 A code along workshop for the Flatiron School Meetup [The Science Behind Netflix Recommendations : Talk | Chicago](https://hi.flatironschool.com/GTW-2020-22-04-TheScienceBehindNetflixRecommendations_rsvp).
-The [original materials for this workshop](https://github.com/yishuen/meetup-movie-recommender) were developed by Flatiron NYC Coach [Yish Lim](https://www.linkedin.com/in/yishuen-lim/) and were updated and adapted for online Zoom broadcast by [David John Baker](https://github.com/davidjohnbaker1/science-of-netflix) and [Ben Oren](https://github.com/Ben-Oren/science-of-netflix).
+The [original materials for this workshop](https://github.com/yishuen/meetup-movie-recommender) were developed by Flatiron NYC Coach [Yish Lim](https://www.linkedin.com/in/yishuen-lim/) and were adapted for online Zoom broadcast by [David John Baker](https://github.com/davidjohnbaker1/science-of-netflix) and [Ben Oren](https://github.com/Ben-Oren/science-of-netflix).
 
 ![img](img/science_netflix.png)
 
-This version of the workshop was presented on:
+This version of the workshop is being presented on:
 
 * April 22nd, 2020 
-* May 16th, 2020
-* May 26th, 2020
 
 After the talk, the slides and collaborative document in use during the broadcast will be available here.
 
