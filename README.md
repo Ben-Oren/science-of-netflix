@@ -11,7 +11,7 @@ This version of the workshop was presented on:
 * May 16th, 2020
 * May 26th, 2020
 
-After the talk, the slides and collaborative document in use during the broadcast will be available here.
+The slides from the presentation are available [here](https://github.com/Ben-Oren/science-of-netflix/blob/master/presentation.pdf) and the collaborative document in use during the broadcast is [here](https://docs.google.com/document/d/1ZvcSvzV8Cu4YbwdqdVc6F_6bI4B2QM1hbnwioEdppew).  There will be a link here to the video recording made of the talk as well. 
 
 [Here is a binder](https://mybinder.org/v2/gh/yishuen/meetup-movie-recommender/master) you can launch the notebook from. 
 
