@@ -10,6 +10,7 @@ This version of the workshop was presented on:
 * April 22nd, 2020 
 * May 16th, 2020
 * May 26th, 2020
+* September 24th, 2020
 
 The slides from the presentation are available [here](https://github.com/Ben-Oren/science-of-netflix/blob/master/presentation.pdf) and the collaborative document in use during the broadcast is [here](https://docs.google.com/document/d/1ZvcSvzV8Cu4YbwdqdVc6F_6bI4B2QM1hbnwioEdppew).  There will be a link here to the video recording made of the talk as well. 
 
